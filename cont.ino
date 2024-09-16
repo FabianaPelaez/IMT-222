@@ -7,7 +7,7 @@ int d = 8;
 int e = 9;
 int f = 11;
 int g = 10;
-unsigned int cont=;
+unsigned int cont= ;
 volatile int contador = 1;
 void setup(){
   pinMode(a, OUTPUT);

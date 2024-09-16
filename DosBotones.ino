@@ -10,7 +10,7 @@
 
 
 uint8_t volumen = EEPROM.read(I_EEPROMP);  
-bool flagMas = false;        
+bool flagMas   = false;        
 bool flagMenos = false;      
 bool flagReset = false;          
 

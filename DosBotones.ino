@@ -82,7 +82,6 @@ void loop() {
         delay(500);
     }
 }
-
 // interrupción para aumentar el volumen
 void Aumentar() {
     flagAumentar = true; //  bandera activa para aumentar el volumen
